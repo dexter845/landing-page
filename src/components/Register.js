@@ -30,7 +30,7 @@ const Register = (props) => {
 
                         <button
                             type="submit"
-                            className="w-full text-center py-3 rounded bg-green-500 text-white hover:bg-green-dark focus:outline-none my-1"
+                            className="w-full text-center py-3 rounded bg-[#217BF4] text-white  focus:outline-none my-1"
                         >Create Account</button>
 
                         <div className="text-center text-sm text-grey-dark mt-4">
